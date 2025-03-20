@@ -11,4 +11,4 @@ import kagglehub
 path = kagglehub.dataset_download("girish17019/mobile-phone-defect-segmentation-dataset")
 
 print("Path to dataset files:", path)
-
+ok
